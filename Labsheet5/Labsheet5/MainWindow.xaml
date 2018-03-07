@@ -58,7 +58,7 @@
                     <DataGrid Name="dgCustomerEx5" Grid.Row="1" Grid.Column="0"></DataGrid>
                 </Grid>
             </TabItem>
-            <TabItem Name="Ex6" Header="Ex5" Width="50">
+            <TabItem Name="Ex6" Header="Ex6" Width="50">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="25"></RowDefinition>
@@ -68,7 +68,7 @@
                     <DataGrid Name="dgCustomerEx6" Grid.Row="1" Grid.Column="0"></DataGrid>
                 </Grid>
             </TabItem>
-            <TabItem Name="Ex7" Header="Ex5" Width="50">
+            <TabItem Name="Ex7" Header="Ex7" Width="50">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="25"></RowDefinition>
@@ -78,7 +78,7 @@
                     <DataGrid Name="dgCustomerEx7" Grid.Row="1" Grid.Column="0"></DataGrid>
                 </Grid>
             </TabItem>
-            <TabItem Name="Ex8" Header="Ex5" Width="50">
+            <TabItem Name="Ex8" Header="Ex8" Width="50">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="25"></RowDefinition>
@@ -88,7 +88,7 @@
                     <DataGrid Name="dgCustomerEx8" Grid.Row="1" Grid.Column="0"></DataGrid>
                 </Grid>
             </TabItem>
-            <TabItem Name="Ex9" Header="Ex5" Width="50">
+            <TabItem Name="Ex9" Header="Ex9" Width="50">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="25"></RowDefinition>

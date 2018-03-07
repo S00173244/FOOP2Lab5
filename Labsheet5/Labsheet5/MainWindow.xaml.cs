@@ -20,7 +20,7 @@ namespace Labsheet5
     /// </summary>
     public partial class MainWindow : Window
     {
-        NORTHWNDEntities db = new NORTHWNDEntities();
+        NORTHWNDEntities1 db = new NORTHWNDEntities1();
         public MainWindow()
         {
             InitializeComponent();
@@ -144,7 +144,7 @@ namespace Labsheet5
 
         private void btnQueryEx9_Click(object sender, RoutedEventArgs e)
         {
-            var query = db.Customers_B("London");
+            var query = db.Customers_By_City("London");
 
             dgCustomerEx9.ItemsSource = query.ToList();
         }
